@@ -20,7 +20,7 @@ to be executed. Enjoy :)
 Install my-project with pip
 
 ```bash
- pip install pandas_sqlite3
+ pip install pandas-sqlite3
 ```
     
 ## Example Use
