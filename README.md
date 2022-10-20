@@ -57,7 +57,4 @@ Contributions are always welcome!
 ## Acknowledgements
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-<<<<<<< HEAD
  - [Python Package to PyPI Using Poetry](https://towardsdatascience.com/how-to-effortlessly-publish-your-python-package-to-pypi-using-poetry-44b305362f9f)
-=======
->>>>>>> 3d83d20ad5fef96439263afa336d495dd4b49a85
