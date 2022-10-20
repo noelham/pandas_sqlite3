@@ -2,7 +2,7 @@
 # Pandas Sqlite3
 
 This project is to simplify the joining of pandas dataframes using Sqlite3. 
-In the world of data science there are often two camps 1)Pandas and 2)SQL. 
+In the world of data science there are often two camps 1) Pandas OR 2) SQL. 
 We want to bring these worlds together by making it easier for those more 
 familiar with SQL to manipulate Pandas dataframes within python. With Pandas Sqlite3
 one can simply pass a list of Pandas dataframes, their names, and a Sqlite3 statement
