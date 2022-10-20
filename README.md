@@ -54,3 +54,7 @@ Contributions are always welcome!
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Acknowledgements
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
