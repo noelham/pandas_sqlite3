@@ -20,14 +20,13 @@ to be executed. Enjoy :)
 Install my-project with pip
 
 ```bash
- pip install pandas_sqlite3
+ pip install pandas-sqlite3
 ```
     
 ## Example Use
 
 
 ```python
-
 import pandas as pd
 from pandas_sqlite3.pandas_query import pandas_query
 
@@ -58,3 +57,4 @@ Contributions are always welcome!
 ## Acknowledgements
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Python Package to PyPI Using Poetry](https://towardsdatascience.com/how-to-effortlessly-publish-your-python-package-to-pypi-using-poetry-44b305362f9f)
