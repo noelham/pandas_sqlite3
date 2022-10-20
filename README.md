@@ -12,6 +12,7 @@ to be executed. Enjoy :)
 ## Authors
 
 - [Hamilton Noel](https://www.github.com/noelham)
+- [Sivananda Rajananda](https://www.github.com/vrsivananda)
 
 
 
